@@ -1,2 +1,2 @@
 ## spring-cloud-config
-# ÓÃÓÚ²âÊÔ Spring Cloud ·Ö²¼Ê½ÅäÖÃ
+# ç”¨äºæµ‹è¯• Spring Cloud åˆ†å¸ƒå¼é…ç½®
